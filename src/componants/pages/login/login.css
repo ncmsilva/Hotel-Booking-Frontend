@@ -1,0 +1,17 @@
+.loginbgs
+{
+    background-image: url("/sigiri.jpg");
+    background-size:  cover;
+    background-position:  center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.loginbgb
+{
+    background-image: url("/beach.jpg");
+    background-size:  cover;
+    background-position:  center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}

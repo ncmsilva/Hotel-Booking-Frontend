@@ -1,0 +1,7 @@
+.regbg
+{
+    background-image: url("/reg.jpg");
+    background-size:  cover;
+    background-position:  center;
+    background-repeat: no-repeat;
+}
